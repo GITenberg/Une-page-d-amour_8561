@@ -1,0 +1,46 @@
+_repo: Une-page-d-amour_8561
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "Une page d'amour is the eighth novel in the Rougon-Macquart series by\
+  \ Émile Zola, set among the petite bourgeoisie in Second Empire suburban Paris.\
+  \ It was first serialized between December 11, 1877, and April 4, 1878, in Le Bien\
+  \ public, before being published in novel form by Charpentier in April 1878.\nThe\
+  \ central character of the novel is Hélène Grandjean née Mouret (b. 1824), first\
+  \ introduced briefly in La fortune des Rougon. Hélène is the daughter of Ursule\
+  \ Mouret née Macquart, the illegitimate daughter of Adelaïde Fouque (Tante Dide),\
+  \ the ancestress of the Rougon-Macquart family. Hélène's brothers are François Mouret,\
+  \ the central character of La conquête de Plassans, and Silvère Mouret, whose story\
+  \ is told in La fortune des Rougon.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8561'
+  wikidata: Q2409540
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+title: Une page d'amour
+url: http://www.gutenberg.org/ebooks/8561
+wikipedia:
+- https://fr.wikipedia.org/wiki/Une_page_d%27amour
+- https://fa.wikipedia.org/wiki/%DB%8C%DA%A9_%D8%B5%D9%81%D8%AD%D9%87_%D8%B9%D8%B4%D9%82
+- https://de.wikipedia.org/wiki/Ein_Blatt_Liebe
+- https://pl.wikipedia.org/wiki/Kartka_mi%C5%82o%C5%9Bci
+- https://en.wikipedia.org/wiki/Une_page_d%27amour
+- https://it.wikipedia.org/wiki/Una_pagina_d%27amore
+- https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8
+- https://fr.wikisource.org/wiki/Une_page_d%E2%80%99amour
