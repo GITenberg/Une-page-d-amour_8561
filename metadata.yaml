@@ -1,4 +1,8 @@
 _repo: Une-page-d-amour_8561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -20,6 +24,8 @@ description: "Une page d'amour is the eighth novel in the Rougon-Macquart series
   \ the ancestress of the Rougon-Macquart family. Hélène's brothers are François Mouret,\
   \ the central character of La conquête de Plassans, and Silvère Mouret, whose story\
   \ is told in La fortune des Rougon.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8561#Une-page-d-amour
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
